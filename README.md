@@ -1,5 +1,5 @@
 # pikmino.github.io
-welcome to my site!! yeah its pretty empty but uhhh
+welcome to my site!! 
 
 # cool stuff
-me!
+![alt text](https://raw.githubusercontent.com/pizzawiz/pikmino.github.io/refs/heads/main/1358501290237362286%20(1).png)
