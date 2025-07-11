@@ -1,4 +1,4 @@
-# pikmino.github.io
+# site
 welcome to my site!! 
 
 # cool stuff
